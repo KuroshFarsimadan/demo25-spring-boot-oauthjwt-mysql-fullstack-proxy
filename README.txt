@@ -10,4 +10,8 @@ To test the application, you can use POSTMAN like the following:
 	
 If you need help in setting up this project, send me a message at LinkedIn or my email 
 kurosh_farsimadan@yahoo.com
+
+Example query after getting the token is like the following
+
+http://localhost:8080/api/usercount?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NTU5NzU0NjMsInVzZXJfbmFtZSI6IkFkYW0iLCJhdXRob3JpdGllcyI6WyJST0xFX0FETUlOIl0sImp0aSI6ImE3MmE1Mzg1LTdiOTUtNDQ2OC1iNGE0LWNkNzMyZjgzYThkYyIsImNsaWVudF9pZCI6ImVyaWEtY2xpZW50LXVzZXJuYW1lIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIiwidHJ1c3QiXX0.uhODaioZK60Rcj75m2DDMizXZ-PvMjqwaWSXSfkMW90
 	
